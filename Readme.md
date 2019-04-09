@@ -6,9 +6,4 @@
 <!-- default file list end -->
 # How to: Bind a ButtonEdit buttons to a collection in a view model
 
-This example shows how to create <strong>ButtonEdit</strong> buttons based on a collection in a view model and define the button appearance using the <strong>DataTemplate</strong> and <strong>DataTemplateSelector</strong> classes.</p>
-
-
-### Description
-
-This is done by binding the [ButtonsSource](https://documentation.devexpress.com/WPF/DevExpress.Xpf.Editors.ButtonEdit.ButtonsSource.property) property and specifying a custom [ButtonTemplate](https://documentation.devexpress.com/WPF/DevExpress.Xpf.Editors.ButtonEdit.ButtonTemplate.property).
+This example shows how to generate **ButtonEdit** buttons based on a collection in a view model by binding the [ButtonsSource](https://documentation.devexpress.com/WPF/DevExpress.Xpf.Editors.ButtonEdit.ButtonsSource.property) property and specifying a custom [ButtonTemplate](https://documentation.devexpress.com/WPF/DevExpress.Xpf.Editors.ButtonEdit.ButtonTemplate.property).
